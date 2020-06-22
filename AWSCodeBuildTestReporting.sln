@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBuildDotnetTestReportExample.Tests", "CodeBuildDotnetTestReportExample.Tests\CodeBuildDotnetTestReportExample.Tests.csproj", "{53B4F245-7E04-4391-8B0A-AF9942332195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B4F245-7E04-4391-8B0A-AF9942332195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B4F245-7E04-4391-8B0A-AF9942332195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B4F245-7E04-4391-8B0A-AF9942332195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B4F245-7E04-4391-8B0A-AF9942332195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

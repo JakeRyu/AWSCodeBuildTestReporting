@@ -7,4 +7,5 @@ phases:
   build:
     commands:
       - dotnet build -c Release ./CodeBuildDotnetTestReportExample/CodeBuildDotnetTestReportExample.csproj
+      - dotnet build -c Release ./WebApp/WebApp.csproj
       - dotnet test -c Release ./CodeBuildDotnetTestReportExample.Tests/CodeBuildDotnetTestReportExample.Tests.csproj
